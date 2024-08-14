@@ -1,0 +1,19 @@
+{
+  "name": "hardhat-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "npx hardhat run scripts/deploy.ts --network tenderly"
+  },
+  "author": "mn.arianelabs",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@tenderly/hardhat-tenderly": "^2.2.2",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
