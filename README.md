@@ -15,7 +15,7 @@ any necessary infrastructure.
 
 
 # Main Features:
-## 1. Virtual TestNets/DevNets\Forks:
+## 1. Virtual TestNets/DevNets/Forks:
 Simulated blockchain networks, designed to replicate real networks. During development process of this tool naming chainged 
 from Forks to DevNets and later to TestNets (more scalable and performant solution), but all the names point to the same feature: 
 ability to create snapshot of network that next may be tweaked, its internal state easily modified and observed.
